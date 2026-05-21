@@ -106,35 +106,6 @@ I am a Full Stack AI/ML Engineer focused on building production-grade AI systems
 - ✅ Deployed AI services on AWS ECS and SageMaker
 - ✅ Automated CI/CD pipelines for ML deployments
 
----
-
-## 📌 Recommended Repositories
-
-Create and pin these repositories:
-
-```text
-enterprise-genai-assistant
-rag-document-qa-system
-ai-agent-framework
-fastapi-ml-inference-platform
-aws-mlops-pipeline
-healthcare-risk-prediction-api
-```
-
----
-
-## ⚡ Developer Loop
-
-```python
-while True:
-    build_ai_systems()
-    optimize_latency()
-    deploy_to_cloud()
-    automate_workflows()
-```
-
----
-
 <div align="center">
 
 ### Thanks for visiting my profile ⭐
