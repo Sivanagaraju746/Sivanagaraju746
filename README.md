@@ -87,14 +87,13 @@ I am a Full Stack AI/ML Engineer focused on building production-grade AI systems
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sivanagaraju746&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sivanagaraju746&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sivanagaraju746&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Sivanagaraju746&theme=tokyonight&hide_border=true" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivanagaraju746&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivanagaraju746&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🏆 Impact Highlights
